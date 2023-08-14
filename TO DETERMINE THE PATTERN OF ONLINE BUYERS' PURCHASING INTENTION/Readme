@@ -3,9 +3,6 @@
 2. Every preprocessing and modeling  is done on runtime and the code can executed directly. 
 3. Every modeling and clustering are done in a sequential manner in a python notebook.
 
-CONTRIBUTIONS: 
-1. ADITYA SHIVAKUMAR- PREPROCESSING, LOSGISTIC REGRESSION AND RANDOM FOREST
-2. RAGHUNATH BABU-  PCA, NEURAL NETWORK IMPLEMENTATION AND CLUSTERING
  
  
  NeuralPython.ipynb is the main code file to be executed. 
